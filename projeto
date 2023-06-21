@@ -20,7 +20,7 @@
 
   
     
- <body bgcolor="red">                           
+ <body bgcolor="Turquoise">                           
                                                
        <h2 align=”left”> <b>Missão</h2><b>
        <h4 align="justify"> <p>Promover empoderamento das capacidades intelectuais através da <strong><b style=font-size:22px><font color="#008080"> programação </strong></font></b></font color> 
@@ -45,7 +45,7 @@
 </ul></div> 
 
     <footer align="center"><h5>colocar endereço no rodapé da página</h5></footer> 
-   <h5><p><a data-fr-linked="true" href="//www.endereço facebook, instagram ou github"></a>h5></a></p>
+   <h5><p><a data-fr-linked="true" href="//www.endereço facebook, instagram ou github"></a></h5></a></p>
 
   
 </html>
